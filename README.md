@@ -5,8 +5,16 @@
 
 ## :rocket: About the project
 <p>
-The goal of this project was to build a solution for  web app and mobile app to find developers near the client, using distance calculation in a radio of 10km
+This project is about a small Organic disposals station marketplace, establishing a connection between companies that collect organic / non-organic waste with people who need to dispose of this waste
 </p>
+
+<b>Main knowledge acquired in this project:</b>
+- What is an APIRestful
+  - If our API follows the REST patterns we have a RESTful api
+- Typescript
+  - Typescript is a superset, we can call it a language, it's a javascript with super powers
+  - Why should we use typescript?
+   - When working in a group, it helps us a lot to know what a particular function will receive or send, as it improves the editor's IntelliSense, allowing to determine the properties of some function or object
 
 <p align="center">
   <img alt="Frontend" src="https://i.imgur.com/qSlD1Py.jpg" width="100%">
@@ -75,6 +83,7 @@ Libs used:
 - How to style elements
 - How to use google maps
 - Get user current location using mobile GPS permission
+- DeepLinking (Whatsapp / Mail)
 
 ### **How to use it**
 
