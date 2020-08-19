@@ -5,7 +5,7 @@
 
 ## :rocket: About the project
 <p>
-This project is about a small Organic disposals station marketplace, establishing a connection between companies that collect organic / non-organic waste with people who need to dispose of this waste
+This project is about a Small organic waste marketplace, establishing a connection between companies that collect organic / non-organic waste with people who need to dispose of this waste
 </p>
 
 <b>Main knowledge acquired in this project:</b>
