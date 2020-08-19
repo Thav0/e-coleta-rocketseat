@@ -9,7 +9,7 @@ The goal of this project was to build a solution for  web app and mobile app to 
 </p>
 
 <p align="center">
-  <img alt="Frontend" src="https://github.com/Rocketseat/semana-omnistack-10/raw/master/.github/devradar.png" width="100%">
+  <img alt="Frontend" src="https://imgur.com/qSlD1Py" width="100%">
 </p>
 
 
